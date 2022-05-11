@@ -9,7 +9,7 @@ export default function Home() {
           <header id="header" className="clear">
             <div>
               <h1 className="name">Munkh-Erdene Tsolmonbayar</h1>
-              <h2 className="label">Senior product developer, SQL developer at Interactive</h2>
+              <h2 className="label">Full Stack Developer, SQL developer at Interactive</h2>
             </div>
         
             <span className="location">
