@@ -59,37 +59,32 @@ export default function Home() {
                   </div>
             <div className="item">
               <h3 className="name">
-                Enterprise Resource Planning (ERP)
+                Enterprise Resource Planning (ERP) development
               </h3>
                   </div>
             <div className="item">
               <h3 className="name">
-                React.js
+                React JS
               </h3>
                   </div>
             <div className="item">
               <h3 className="name">
-                Facebook Marketing
+                Node JS
               </h3>
                   </div>
             <div className="item">
               <h3 className="name">
-                Social Media Advertising
+                Oracle SQL
               </h3>
                   </div>
             <div className="item">
               <h3 className="name">
-                Front-end Development
+                MySQL
               </h3>
                   </div>
             <div className="item">
               <h3 className="name">
                 Team Leadership
-              </h3>
-                  </div>
-            <div className="item">
-              <h3 className="name">
-                Marketing Event Planning
               </h3>
                   </div>
             <div className="item">
@@ -105,16 +100,6 @@ export default function Home() {
             <div className="item">
               <h3 className="name">
                 User Interface Design
-              </h3>
-                  </div>
-            <div className="item">
-              <h3 className="name">
-                Mobile Application Development
-              </h3>
-                  </div>
-            <div className="item">
-              <h3 className="name">
-                MySQL
               </h3>
                   </div>
           </section>
